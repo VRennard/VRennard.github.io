@@ -21,7 +21,7 @@ Work experience
   * Linagora
   * Conducted engineering Research work alongside Ph.D studies, contributing to various tasks related to language model development
   * Curated, collected, and organized datasets from diverse sources to support training and evaluation of Large Language Models.
-  * Imprelement pre-training and fine-tuning of Large Language Models using distributed computing frameworks.
+  * Implement pre-training and fine-tuning of Large Language Models using distributed computing frameworks.
   * Advanced research in dialogue summarization, utilizing linguistic and discourse-based graph structures.
 
 * Natural Language Processing and Graph Research Engineer, April 2020 - July 2022
